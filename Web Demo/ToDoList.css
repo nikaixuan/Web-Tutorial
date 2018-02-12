@@ -1,0 +1,28 @@
+li {
+	border: 2px solid purple;
+	background: blue;
+}
+
+#play {
+	background: yellow;
+}
+
+.other {
+	background: green;
+}
+
+* {
+	border: 1px solid lightgrey;
+}
+
+li a {
+	background: blue;
+}
+
+h1 + ul {
+	border-width: 5px;
+}
+
+a[href ="http://www.google.com"] {
+	border-width: 5px;
+}

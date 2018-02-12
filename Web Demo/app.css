@@ -1,0 +1,14 @@
+h1 {
+	color: red;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}
+li {
+	color: green;
+
+}
+h4 {
+	color: blue;
+	background: rgb(255,100,10);
+}
